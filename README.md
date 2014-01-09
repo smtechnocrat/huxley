@@ -2,7 +2,7 @@
 
 *Watches you browse, takes screenshots, tells you when they change*
 
-Huxley is a test-like system for catching **visual regressions** in Web applications. It was built by [Pete Hunt](http://github.com/petehunt/) with input from [Maykel Loomans](http://www.miekd.com/) at [Instagram](http://www.instagram.com/).
+Huxley is a test-like system for catching **visual regressions** in Web applications. 
 
 ## What is the problem?
 
